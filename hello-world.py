@@ -2,4 +2,5 @@ import sys
 
 print "hello world test"
 print "test push"
-print "test diff"
+print "test diff 1"
+print "test diff 2"
