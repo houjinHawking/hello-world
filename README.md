@@ -1,1 +1,3 @@
 # hello-world-test
+# my name is houjin 
+# Professional direction: dataming, machine-learning, recommend, ...
